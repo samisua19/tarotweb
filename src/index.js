@@ -14,7 +14,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path='/' element={<App />}></Route>
+        <Route path='/tarotweb' element={<App />}></Route>
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
